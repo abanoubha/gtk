@@ -1,2 +1,2 @@
 # gtk4-go
-GTK4 lib binding / wrapper
+WIP (work in progress) GTK4 lib binding / wrapper
