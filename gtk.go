@@ -1,5 +1,6 @@
 package gtk
 
 func UseGtk() string {
-	return "working"
+	str := "working"
+	return str
 }
