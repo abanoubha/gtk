@@ -10,4 +10,5 @@ see [examples](https://github.com/abanoubha/gtk4-examples) here.
 
 ref:
 
+- [tutorial : create Go module](https://go.dev/doc/tutorial/create-module)
 - [calling C code from Go](https://karthikkaranth.me/blog/calling-c-code-from-go/)
