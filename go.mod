@@ -1,3 +1,3 @@
-module github.com/abanoubha/gtk4-go
+module github.com/abanoubha/gtk
 
 go 1.18
