@@ -1,0 +1,3 @@
+package gtk
+
+//func gtk() {}
