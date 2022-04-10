@@ -1,5 +1,5 @@
 package gtk
 
-func useGtk() string {
+func UseGtk() string {
 	return "working"
 }
