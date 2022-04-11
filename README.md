@@ -1,4 +1,4 @@
-# gtk4-go
+# GTK4 in Go language
 
 v0.1.0 beta
 
